@@ -46,9 +46,12 @@
 
 <!-- Technical Skills -->
 <p><H3 align="center"><strong> Technical Skills: 💻 </strong></p>
-  
-  <code><img height="40" src="https://user-images.githubusercontent.com/55005374/101125531-160e6580-35bf-11eb-8256-f599b154f3ee.png"></code>
 
+  <code><img height="40" src="https://github.com/sohunho/sohunho.github.io/assets/30545501/246d3eb7-6a73-4fcd-a619-f34e94cb3938"></code>
+  <code><img height="40" src="https://github.com/sohunho/sohunho.github.io/assets/30545501/3d115fc0-eebe-438d-9777-45b375a2c11d"></code>
+  <code><img height="40" src="https://github.com/sohunho/sohunho.github.io/assets/30545501/11ae3707-9dac-4b28-ae0b-22801d5335b3"></code>
+  
+   
   </p>
   
 &nbsp;  
